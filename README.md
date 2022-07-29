@@ -1,2 +1,2 @@
 # test2coo
-sign: sj
+sign: sjCCCCCCCC
